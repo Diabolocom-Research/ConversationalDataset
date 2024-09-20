@@ -5,7 +5,7 @@ This repository will host **benchmarks** and **datasets** related to conversatio
 
 ## 🗂 Processed TalkBank Dataset for ASR benchmarking
 
-Pre-processed dataset with train-test splits for all languages is avaialble at [hugging face](https://huggingface.co/datasets/diabolocom/talkbank_4_stt) as described in this [paper](https://arxiv.org/abs/2409.12042)
+Pre-processed dataset with train-test splits for all languages is avaialble at [Hugging Face](https://huggingface.co/datasets/diabolocom/talkbank_4_stt) as described in this [Paper](https://arxiv.org/abs/2409.12042).
 
 
 ## Work in Progress 🚧
